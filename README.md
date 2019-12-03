@@ -4,8 +4,8 @@ Sports Committee App of IIIT Vadodara
 
 ## Languages & tools used:
 
-Flutter (v 1.9.1+hotfix.6 channel stable), Dart (v 2.5.0), Android Studio (v 3.5), JRE (v 1.8.0), Firebase (v 4.3.2), OS - Windows 10 Home (v 1909)__
-The application was created on the system with processor – Intel i3 Octa core 6th generation, and 8 GB RAM, 1 TB SSD__
+Flutter (v 1.9.1+hotfix.6 channel stable), Dart (v 2.5.0), Android Studio (v 3.5), JRE (v 1.8.0), Firebase (v 4.3.2), OS - Windows 10 Home (v 1909) <br/>
+The application was created on the system with processor – Intel i3 Octa core 6th generation, and 8 GB RAM, 1 TB SSD <br/>
 
 ## How to install the application:
 
@@ -15,7 +15,8 @@ The application was created on the system with processor – Intel i3 Octa core 
 
 ### Installing application:
 Firstly, extract the code from “V-SPORTY.zip”. <br/>
-Open V-SPORTY folder in android studio.
-- File\>>Settings>>Languages & Frameworks>>Dart and check whether Dart SDK path is set or not, if not then set its path.
+- Open V-SPORTY folder in android studio. 
+- File>>Settings>>Languages & Frameworks>>Dart and check whether Dart SDK path is set or not, if not then set its path.
+- Open pubspec.yaml and click on “Packages get” to get all packages.
 - Connect a device or open an emulator.
 - Run main.dart

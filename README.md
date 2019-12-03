@@ -12,6 +12,7 @@ The application was created on the system with processor – Intel i3 Octa core 
 ### Requirements:
 1) Flutter installed in your laptop with Dart too. <br/>
 2) Android Studio flutter plugins and android emulator. <br/>
+3) Download or clone the github repository. <br/>
 
 ### Installing application:
 Firstly, extract the code from “V-SPORTY.zip”. <br/>

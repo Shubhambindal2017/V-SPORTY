@@ -13,13 +13,9 @@ The application was created on the system with processor – Intel i3 Octa core 
 1) Flutter installed in your laptop with Dart too.__
 2) Android Studio flutter plugins and android emulator.__
 
-Requirements:
-1) Flutter installed in your laptop with Dart too.
-2) Android Studio flutter plugins and android emulator.
-
-Installing application:
+### Installing application:
 Firstly, extract the code from “V-SPORTY.zip”.
 Open V-SPORTY folder in android studio.
-- File >> Settings >> Languages & Frameworks >> Dart and check whether Dart SDK path is set or not, if not then set its path.
+- File>>Settings>>Languages & Frameworks>>Dart and check whether Dart SDK path is set or not, if not then set its path.
 - Connect a device or open an emulator.
-- Runmain.dart
+- Run main.dart
